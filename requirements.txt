@@ -1,0 +1,26 @@
+# LangChain core
+langchain>=0.2.0
+langchain-core>=0.2.0
+
+# OpenAI
+langchain-openai>=0.1.0
+openai>=1.0.0
+
+# Anthropic
+langchain-anthropic>=0.1.0
+
+# Google Gemini
+langchain-google-genai>=1.0.0
+google-generativeai>=0.7.0
+
+# HuggingFace
+langchain-huggingface>=0.0.3
+huggingface-hub>=0.23.0
+transformers>=4.41.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# ML utilities
+numpy>=1.26.0
+scikit-learn>=1.4.0
